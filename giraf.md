@@ -1,0 +1,5 @@
+```
+![Giraffe](/pictures/giraf.jpg)
+
+
+```
