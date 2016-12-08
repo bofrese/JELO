@@ -22,3 +22,12 @@
          ~~~~~~==~==~==~==~~~~~~
              :~==~==~==~==~~
 ```
+
+
+
+The secret library at [GitHub headquaters](https://officesnapshots.com/2015/04/06/github-san-francisco-headquarters/):
+
+![Library](https://officesnapshots.com/wp-content/uploads/2015/04/github-office-design-13-700x467.jpg)
+
+Of course the secret library bar is [Concealed behind a bookshelf](https://mlkshk.com/p/WKTH) :-)
+
