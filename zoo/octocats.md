@@ -2,7 +2,7 @@
 MMM.           .MMM
            MMMMMMMMMMMMMMMMMMM
            MMMMMMMMMMMMMMMMMMM      __________________________
-          MMMMMMMMMMMMMMMMMMMMM    |   I Have to warn you    |
+          MMMMMMMMMMMMMMMMMMMMM    |   I Have to warn you       |
          MMMMMMMMMMMMMMMMMMMMMMM   | I am in fact a Librarian!  |
         MMMMMMMMMMMMMMMMMMMMMMMM   |_   ________________________|
         MMMM::- -:::::::- -::MMMM    |/
